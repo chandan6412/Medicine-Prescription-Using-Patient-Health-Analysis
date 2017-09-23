@@ -3,10 +3,12 @@
  
  
  Problem Description :
+ ----------------------
 
 Nowadays there is very easy to get access to medicines, because of this there has been increasing in improper taking of medicines and doctors are not able to identify speedily how much dosage of drug they should prescribe to the patient, sometimes it had been observed that the patient had been prescribed a wrong medicine which is harmful to patient body. These errors can be seen everywhere, whether it is a hospital or a small clinic. Most of the time it had been observed that the patient had to spend more time in the hospital due to improper dosage in medicine prescription. One in 10 patients is harmed while receiving hospital care. Even the doctor sometime misses the decimal point which will result in improper utilization of dosage which harms the patient.
 
 There are numerous types of prescription drug errors. Some of the more common include:(By David Berg)
+------------------------------------------------------------------------------------------------------
 
 1.Administering the patient the wrong medication.
 
@@ -25,5 +27,6 @@ There are numerous types of prescription drug errors. Some of the more common in
 Prescription errors account for 70% of medication errors that could potentially result in adverse effects. Corrective measures need to be introduced to improve the drug delivery system and retard the incidence of medication errors. We should guarantee a patient safety, we can reduce the no of death cases that occur due to errors in medicine prescription which can also result in low-cost treatment for a patient as because of the reduction in error rates.
 
 Solution :
+-----------
 
 Using the past data of the patient we are creating a system software which can be intelligently able to prescribe the medicine to the patient while observing all the previous cases of other patient's. The whole body of the patient is being analyzed and based upon that particular medicine is prescribed. The system also does analysis that if any side effects and reaction with other medicine can be occurred or not, if so the system will also generate the message for the doctor which is further examined.
